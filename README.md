@@ -33,3 +33,6 @@ Frontend (React)
 cd frontend
 npm install
 npm run dev
+
+
+updations: cloud computing aws for server, upgrade model performance, clean the code and optimize the code, and add additional functionalities to satisfy real world problem.
